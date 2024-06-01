@@ -1,11 +1,11 @@
 
-[![MasterHead](https://industrywired.com/wp-content/webp-express/webp-images/uploads/2022/04/Top-10-Animes-that-Encourage-to-Coding-Skills.jpg.webp)]
+[![MasterHead](https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif)]
 
 <h1 align="center">Hi 👋, I'm Augusto Varghese</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+<img align="center" alt="Coding" width="400" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=augustov2&label=Profile%20views&color=0e75b6&style=flat" alt="augustov2" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=augustov2&label=Profile%20views&color=0e75b6&style=flat" alt="augustov2" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=augustov2" alt="augustov2" /></a> </p>
 
