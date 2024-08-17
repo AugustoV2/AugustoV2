@@ -92,7 +92,7 @@
 <img src="https://github-readme-stats-alpha-snowy-32.vercel.app/api?username=augustov2&show_icons=true&theme=transparent&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=augustov2&theme=dark&hide_border=true" alt="GitHub Streak Stats"><br/>
 <img src="https://github-readme-stats-alpha-snowy-32.vercel.app/api/top-langs/?username=augustov2&theme=dark&include_all_commits=true&count_private=true&layout=compact&langs_count=10&hide_border=true" alt="Top Languages">
-<img src="https://raw.githubusercontent.com/augustov2/github-stats/master/generated/overview.svg#gh-dark-mode-only" alt="Github Visual Stats"><br/>
+
 
 ---
 <h3 align="left">Now Listening To</h3> 
