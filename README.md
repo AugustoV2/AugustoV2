@@ -1,58 +1,108 @@
-<div style="text-align: center;">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif" alt="MasterHead">
-</div>
+<div align="r">
+
+<h1 align="center">Hi 👋, I'm Augusto V</h1>
+
+<p><b>I'm a Full-stack + Android developer from India, passionate about creating seamless and user-friendly softwares with expertise in front-end and back-end technologies. I love combining my hobbies like IoT, coding and building various projects with AI and Web. Slightly obsessed with Home Automation and Home Labs.
+
+  </b></p>
+<br>
+
+<h2>About Me</h2>
+
+[![Code Time](https://wakatime.com/badge/user/10d55880-38a5-4eda-91a6-9a041dc78976.svg)](https://wakatime.com/@10d55880-38a5-4eda-91a6-9a041dc78976)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.3%20million%20lines%20of%20code-blue)
 
 
-<h1 align="center">Hello, I'm Augusto Varghese <br> <img src="https://komarev.com/ghpvc/?username=augustov2&label=Profile%20views&color=0e75b6&style=flat" alt="augustov2" /> </h1>
+<h3 align="left">Contact Me</h3>
+<a href="www.linkedin.com/in/augustov2/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin: Augusto">
+</a>
+<br>
+<a href="https://www.github.com/AugustoV2">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub followers">
+</a>
+<a href="https://blaaa-gilt.vercel.app/">
+    <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio">
+</a>
 
-<h3 align="center">Passionate Frontend Developer from India</h3>
+<br>
 
-<div style="text-align: center;">
-  <img alt="Coding" width="400" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
-</div>
+<h3 align="left"">Favorite Tech</h2>
 
+> Tools, languages, and other things that I like to work with.
 
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://envs.sh/ibA.svg" width="96" height="48" alt="Golang" />
+      </a>
+      <br>Go
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://envs.sh/ibb.svg" width="48" height="48" alt="Python" />
+      </a>
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://envs.sh/ibB.svg" width="96" height="48" alt="Rust" />
+      </a>
+      <br>Rust
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://envs.sh/ibP.svg" width="48" height="48" alt="TypeScript" />
+      </a>
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
+      <a href="#" >
+        <img src="https://envs.sh/ibW.svg" width="48" height="48" alt="MongoDB" />
+      </a>
+      <br>MongoDB
+    </td>
+    <td align="center" width="96"> 
+      <a href="#" >
+        <img src="https://envs.sh/ibS.svg" width="48" height="48" alt="Kotlin" />
+      </a>
+      <br>Kotlin
+    </td>
+    <td align="center"  width="96">
+      <a href="#">
+        <img src="https://envs.sh/ib0.svg" width="48" height="48" alt="NextJS" />
+      </a>
+      <br>NextJS
+    </td>
+    <td align="center" width="96">
+      <a href="#" >
+        <img src="https://envs.sh/ibn.svg" width="48" height="48" alt="Flutter" />
+      </a>
+      <br>Flutter
+    </td>
+    <td align="center" width="96">
+      <a href="#" >
+        <img src="https://envs.sh/ibT.svg" width="48" height="48" alt="Docker" />
+      </a>
+      <br>Docker
+  </tr>
+</table>
 
+<h3 align="left">Github Stats</h2>
+
+<img src="https://github-readme-stats-alpha-snowy-32.vercel.app/api?username=augustov2&show_icons=true&theme=transparent&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=augustov2&theme=dark&hide_border=true" alt="GitHub Streak Stats"><br/>
+<img src="https://github-readme-stats-alpha-snowy-32.vercel.app/api/top-langs/?username=augustov2&theme=dark&include_all_commits=true&count_private=true&layout=compact&langs_count=10&hide_border=true" alt="Top Languages">
+<img src="https://raw.githubusercontent.com/augustov2/github-stats/master/generated/overview.svg#gh-dark-mode-only" alt="Github Visual Stats"><br/>
+
+---
+<h3 align="left">Now Listening To</h3> 
+<img src="https://spotify-now-playing-psi-silk.vercel.app/api/current-playing?svg=true" alt="Spotify Now Playing">
+
+<br/><br/><br/>
+<img alt="Profile Hits" src="https://moe-counter.glitch.me/get/@augustov2">
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=augustov2" alt="augustov2" />
-  </a>
-</p>
-
-
-<h3 align="center">Connect with me:</h3>
-<p align="center">
- --> https://github.com/AugustoV2
-  <br>
- --> www.linkedin.com/in/augusto-varghese-1a0746271
-</p>
-
-<h3 align="center">Languages and Tools:</h3>
-<p align="center">
-  <br>
-  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> &nbsp
-  <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/>&nbsp
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>&nbsp
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>&nbsp
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>&nbsp
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>&nbsp
-  <br>
-  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <br>
-</p>
-
-<p align="center">
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=augustov2&show_icons=true&locale=en&layout=compact" alt="augustov2" />
-  <br>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=augustov2&" alt="augustov2" />
+        <img src="https://envs.sh/ibp.svg" alt="Github Stats" />
 </p>
