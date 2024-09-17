@@ -21,7 +21,7 @@
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub followers">
 </a>
 <a href="https://aaaa-phi-inky.vercel.app/">
-    <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio">
+    <img src="https://augusto-v.vercel.app/" alt="Portfolio">
 </a>
 
 <br>
