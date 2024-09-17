@@ -13,7 +13,7 @@
 
 <h3 align="left">Contact Me</h3>
 <a href="https://aaaa-phi-inky.vercel.app/">
-    <img src="https://envs.sh/wMV.png" alt="Linkedin: Augusto" width="20" height="20">
+    <img src="https://envs.sh/wMV.png" alt="Linkedin: Augusto" width="30" height="30">
 </a>
 
 <a href="www.linkedin.com/in/augustov2">
