@@ -13,7 +13,7 @@
 
 <h3 align="left">Contact Me</h3>
 <a href="https://aaaa-phi-inky.vercel.app/">
-    <img src="https://www.flaticon.com/free-icons/www" title="www icons" alt="Linkedin: Augusto">
+    <img src="https://envs.sh/wM6.png" title="www icons" alt="Linkedin: Augusto">
 </a>
 <a href="www.linkedin.com/in/augustov2">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin: Augusto">
