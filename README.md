@@ -12,9 +12,6 @@
 
 
 <h3 align="left">Contact Me</h3>
-<a href="https://aaaa-phi-inky.vercel.app/">
-    <img src="https://envs.sh/wMV.png" alt="Linkedin: Augusto" width="30" height="30">
-</a>
 
 <a href="www.linkedin.com/in/augustov2">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin: Augusto">
@@ -23,7 +20,7 @@
 <a href="https://www.github.com/AugustoV2">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub followers">
 </a>
-<a href="https://blaaa-gilt.vercel.app/">
+<a href="https://aaaa-phi-inky.vercel.app/">
     <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio">
 </a>
 
