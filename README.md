@@ -30,63 +30,15 @@
 
 > Tools, languages, and other things that I like to work with.
 
-<table>
-  <tr>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="https://envs.sh/ibA.svg" width="96" height="48" alt="Golang" />
-      </a>
-      <br>Go
-    </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="https://envs.sh/ibb.svg" width="48" height="48" alt="Python" />
-      </a>
-      <br>Python
-    </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="https://envs.sh/ibB.svg" width="96" height="48" alt="Rust" />
-      </a>
-      <br>Rust
-    </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="https://envs.sh/ibP.svg" width="48" height="48" alt="TypeScript" />
-      </a>
-      <br>TypeScript
-    </td>
-    <td align="center" width="96">
-      <a href="#" >
-        <img src="https://envs.sh/ibW.svg" width="48" height="48" alt="MongoDB" />
-      </a>
-      <br>MongoDB
-    </td>
-    <td align="center" width="96"> 
-      <a href="#" >
-        <img src="https://envs.sh/ibS.svg" width="48" height="48" alt="Kotlin" />
-      </a>
-      <br>Kotlin
-    </td>
-    <td align="center"  width="96">
-      <a href="#">
-        <img src="https://envs.sh/ib0.svg" width="48" height="48" alt="NextJS" />
-      </a>
-      <br>NextJS
-    </td>
-    <td align="center" width="96">
-      <a href="#" >
-        <img src="https://envs.sh/ibn.svg" width="48" height="48" alt="Flutter" />
-      </a>
-      <br>Flutter
-    </td>
-    <td align="center" width="96">
-      <a href="#" >
-        <img src="https://envs.sh/ibT.svg" width="48" height="48" alt="Docker" />
-      </a>
-      <br>Docker
-  </tr>
-</table>
+
+
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=python,typescript,javascript,kotlin,c,nextjs,golang" />
+    <br/><br/>
+    <img src="https://skillicons.dev/icons?i=html,css,tailwindcss,materialui,react,flutter,express,flask,prisma,mongodb,vercel,aws,cloudflare,arduino,java,androidstudio,md&perline=10" />
+    <br>
+</div>
+
 
 <h3 align="left">Github Stats</h2>
 
