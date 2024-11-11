@@ -1,6 +1,20 @@
 <div align="r">
 
-<h1 align="center">Hi 👋, I'm Augusto V</h1>
+<h1 align="center"><img src='https://readme-typing-svg.herokuapp.com/?font=Courgette&size=80&center=true&vCenter=true&width=1600&height=140&duration=8000&color=ADD8E6&lines=I%27m+AugustoV!!!'></h1>
+
+
+
+
+
+
+
+
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=augustov2&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 <p><b>I'm a Full-stack + Android developer from India, passionate about creating seamless and user-friendly softwares with expertise in front-end and back-end technologies. I love combining my hobbies like IoT, coding and building various projects with AI and Web. Slightly obsessed with Home Automation and Home Labs.</b></p>
 <br>
