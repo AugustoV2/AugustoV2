@@ -48,8 +48,8 @@
 
 
 ---
-<h3 align="left">Now Listening To</h3> 
-<img src="https://spotify-now-playing-psi-silk.vercel.app/api/current-playing?svg=true" alt="Spotify Now Playing">
+
+<img src="https://spotify-next-tau.vercel.app/" alt="Spotify Now Playing">
 
 <br/><br/><br/>
 <img alt="Profile Hits" src="https://moe-counter.glitch.me/get/@augustov2">
